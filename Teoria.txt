@@ -1,15 +1,21 @@
 Con tus propias palabras explica los siguientes conceptos.
 
 
-
 - Callbacks
+es pasar un afuncion como argumento a otra funcion
 
 - Funcionamiento de Map()
+crea un arreglo nuevo y pasa los valores al nuevo arreglo, los valores los pasa uno por uno 
 
 - Funcionamiento de Reduce()
+ejecuta una funcion sobre cada elemento del array y devuelve un unico valor 
 
 - Funcionamiento de Filter()
+crea un nuevo arreglo con los elementos que cumplan una condicion 
 
 - Funcionamiento de forEach()
+recorre el arreglo una vez por componenete
 
 - En que situacion usarias un filter?
+en situaciones donde tenga que cargar un arreglo con ciertos valores determinados 
+como edades especificas, alturas, precios ,etc
